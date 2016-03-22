@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here.
+ 
+Answer the following questions:
+  
+
+* What new skills have you learned?
+
+- I have learned how to use tags properly and not mix CSS with HTML  
+
+* What has been easy?
+  
+- After working for the past 4 days in my portfolio page, working on this article
+seemed quite easy. I've noticed that I am much more confident on how I build the code.
+ 
+
+* What has been difficult?
+ 
+Not missing little, small details. 
+
+* How have you used the problem solving strategies from the first project to 
+overcome challenges so far?
+
+
+Well started laying out the sample code, then opened in my browser, noticed a couple
+of bugs that were not working, so back to adjusting, testing, adjusting, testing until
+I got the layout that I wanted. 
