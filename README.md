@@ -2,8 +2,10 @@
 
 <h2>About</h2>
 
-This repository contains project work for Udacity's Front-End Web Developer Nanodegree from the September 2015 cohort.
+This repository contains project work for Udacity's Front-End Web Developer Nanodegree
 
 <h2>Projects:</h2>
 
-p1-build-a-portfolio-site - Mockup to Website
+P1-Mockup-to-Article
+P2-build-a-Portfolio-Site
+P3-Online-Resume 
