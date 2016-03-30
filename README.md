@@ -7,5 +7,7 @@ This repository contains project work for Udacity's Front-End Web Developer Nano
 <h2>Projects:</h2>
 
 P1-Mockup-to-Article
+<br>
 P2-build-a-Portfolio-Site
+<br>
 P3-Online-Resume 
